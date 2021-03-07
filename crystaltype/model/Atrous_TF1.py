@@ -2,7 +2,7 @@
 """
 Created on Tue Apr  3 13:47:03 2018
 
-@author: HP
+@author: Minhuan Li  minhuanli@g.harvard.edu
 """
 
 import tensorflow as tf
