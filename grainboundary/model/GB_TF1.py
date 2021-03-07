@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  4 12:27:21 2018
 
-@author: lmh
+@author: Minhuan Li   minhuanli@g.harvard.edu
 """
 
 # -*- coding: utf-8 -*-
